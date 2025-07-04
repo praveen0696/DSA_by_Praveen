@@ -1,12 +1,13 @@
 # DSA_by_Praveen
 🚀 DSA: Basics to Advanced
-This repository contains my personal notes, codes, and practice problems on Data Structures & Algorithms (DSA) — covering concepts from beginner-friendly fundamentals to advanced topics.
+<br>
+This repository contains my personal codes, and practice problems on Data Structures & Algorithms (DSA) — covering concepts from beginner-friendly fundamentals to advanced topics.
 
 🎯 What’s inside?
 
 📒 Well-organized topic-wise explanations
 
-💻 Sample codes in C++/Java/Python
+💻 Sample codes in Java
 
 📊 Commonly asked coding interview questions
 
