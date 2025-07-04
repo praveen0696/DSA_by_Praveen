@@ -1,3 +1,5 @@
+package Arrays;
+
 public class BinarySearch 
 {
     public static int BinaryNumber(int num[] , int key)
