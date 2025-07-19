@@ -1,6 +1,6 @@
 package Sorting;
 import java.util.Arrays;
-import java.util.Collections;
+// import java.util.Collections;
 
 public class Inbuilt_Sort {
     public static void printArr(int arr[]) {

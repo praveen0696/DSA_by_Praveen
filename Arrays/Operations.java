@@ -7,7 +7,7 @@ public class Operations
         // Create
         int marks[] = new int[50];
 
-        // Input
+        //b Input
         Scanner sc = new Scanner(System.in);
         marks[0] = sc.nextInt();
         marks[1] = sc.nextInt();
