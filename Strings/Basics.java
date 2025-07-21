@@ -1,12 +1,11 @@
-package Strings;
 
 import java.util.Scanner;
 
 public class Basics {
     public static void main(String[] args) {
         // Creation
-        String str = "abcd";
-        String str2 = new String("xyz"); // Using new keyword 
+        // String str = "abcd";
+        // String str2 = new String("xyz"); // Using new keyword 
 
         // input 
         Scanner sc = new Scanner(System.in);
@@ -24,6 +23,8 @@ public class Basics {
 
         // charAt function
         System.out.println(lastName.charAt(2));
+
+        sc.close();
 
     }
 }
