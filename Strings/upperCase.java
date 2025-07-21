@@ -1,5 +1,3 @@
-package Strings;
-
 // Each first letter of the each word to uppercase
 public class upperCase {
 

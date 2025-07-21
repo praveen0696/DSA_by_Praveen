@@ -1,5 +1,3 @@
-package Strings;
-
 public class Shortest_Path {
     public static float getShortestPath(String path) {
         int x = 0, y = 0;
